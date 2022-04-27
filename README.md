@@ -6,11 +6,11 @@ A JSON API built with Python, Flask, & SQL that displays an abbreviated list of 
 
 | Method | Endpoint     | Description         |
 | ------ | ------------ | --------------------|
-| GET    | /shows       | Displays all shows. |
-| GET    | /shows/:id   | Displays one show.  |
-| POST   | /shows/      | Creates one show.   |
-| PUT    | /shows/:id   | Updates one show.   |
-| DELETE | /shows/:id   | Deletes one show.   |
+| `GET`    | /shows       | Displays all shows. |
+| `GET`    | /shows/:id   | Displays one show.  |
+| `POST`   | /shows/      | Creates one show.   |
+| `PUT`   | /shows/:id   | Updates one show.   |
+| `DELETE` | /shows/:id   | Deletes one show.   |
 
 # Deployed Link
 Soon come...
